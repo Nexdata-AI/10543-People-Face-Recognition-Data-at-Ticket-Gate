@@ -4,7 +4,7 @@
 ## Description
 10,543 People - Face Recognition Data at Ticket Gate, for each subject, 4 images were collected. The dataset diversity includes different shooting heights, different ages, different light conditions and scenes.This data can be applied to computer vision tasks such as face detection and recognition.
 
-For more details, please refer to the link: https://bit.ly/3SfQh7N
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1101?source=Github
 
 ## Data size
 10,543 people, 4 images per person
